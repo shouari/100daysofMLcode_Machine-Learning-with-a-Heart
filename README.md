@@ -22,3 +22,13 @@ Data set provided by https://www.drivendata.org.
 
 **Thoughts:** While going through ML courses and improving python, I decided to put reinforcement learning on stand by for more efficiency.
 Hopefully, I'll finish week 3 of ML learning courses by 30 Septemeber and start preparing the dataset I'm working on
+
+## Day 7-16: Oct 1-10, 2018
+
+**progress:** finished week 4 and 5 of Machine learning course of Andrew Ng, as for reiforcement learning, just finished week 3 (Monte Carlo Methods), however not really feeling confortable with the method, I need to go through ressources for that.
+Concerning the "Heart_Diseases_Presence" project, I down loaded the data set and start manipulation with Pandas (thanks to tutarials of Sentdex).
+I wrote a code to create a normilized dataframe "normalize_data.py", and start building the Neural Network from scatch.
+Architecture of the model has not been decided yet, as well as the activation functions.
+**The Data set and the noramalization code are already uploaded.**
+**Thoughts:** Reinforcement learning is little harder for me to understand, 
+As for the project, I hope that I'll be able to finilize the architecture of the network and the coding within the week.
