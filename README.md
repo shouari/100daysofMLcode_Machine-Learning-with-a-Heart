@@ -28,8 +28,19 @@ Hopefully, I'll finish week 3 of ML learning courses by 30 Septemeber and start 
 **progress:** Finished week 4 and 5 of Machine learning course of Andrew Ng, as for reiforcement learning, just finished week 3 (Monte Carlo Methods), however not really feeling confortable with the method, I need to go through ressources for that.
 Concerning the "Heart_Diseases_Presence" project, I down loaded the data set and start manipulation with Pandas (thanks to tutarials of Sentdex).
 
-I wrote a code to create a normilized dataframe "normalize_data.py", and start building the Neural Network from scatch.
+The data downloaded from drivendata.com contains the following files:
+train_values.csv
+train_labels.csv
+test_values.csv
+submission_format.csv
+
+I wrote a code to create a normilized dataframe **"normalize_data.py"**, and start building the Neural Network from scatch.
 Architecture of the model has not been decided yet, as well as the activation functions.
+The output of the code is a csv file with normilized data and labels in the same file ("normalize_train_data.csv")
+
+The idea behind grouping features and labels in the same data frame is to shuffle the set and to extract later the features and lables as matrice/vector, to vectorize all calculation rather than using loops.
+
+
 **The Data set and the noramalization code are already uploaded.**
 
 **Thoughts:** Reinforcement learning is little harder for me to understand, 
