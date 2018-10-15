@@ -45,3 +45,11 @@ The idea behind grouping features and labels in the same data frame is to shuffl
 
 **Thoughts:** Reinforcement learning is little harder for me to understand, 
 As for the project, I hope that I'll be able to finilize the architecture of the network and the coding within the week.
+
+
+## Day 17-19: Oct 11-14, 2018
+
+**progress:** The classifier Neural Network for heart-disease presence from scratch is finalized and operational, 
+The full code will be uploaded in th coming days after some fine tuning and "cleaning".
+
+**Thoughts:** So excited to see my very first Network learning and making correct prediction. It needs some fine tuning but working.
