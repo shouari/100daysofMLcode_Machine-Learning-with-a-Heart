@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 
-
+# Normalize Class is created in order to normalize the training and submission data without having to rewrite the full code or have the function in the Neural Network code
 
 class Normalize:
     def __init__(self, data_frame):
