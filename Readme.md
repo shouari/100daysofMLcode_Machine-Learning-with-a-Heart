@@ -8,6 +8,7 @@ If any comment or improvement suggetion please feel free, all suggestions are we
 
 
 This my very first chanllenge in ML, and I really enjoy.
+
 I started Andrew Ng courses 5 weeks ago on www.coursera.com and following Siraj Raval (https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A) and Sentdex(https://www.youtube.com/user/sentdex/)  Channels.
 
 
