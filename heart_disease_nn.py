@@ -188,6 +188,7 @@ class NeuralNetwork:
 
                 losses.append(self.loss(y, pred, model))
                 accuracies.append(self._accuracy(X, y))
+         # Plotting the loss and accuracy after training to monitor
         plt.subplot(2, 1, 1)
         plt.plot(losses)
         plt.title('Performance of model during the training')
@@ -197,8 +198,8 @@ class NeuralNetwork:
         plt.plot(accuracies)
         plt.xlabel('Iterations')
         plt.ylabel('Accuracy')
-
-        #plt.show()
+        plt.show()
+        
         self.model = model
         return model, losses, accuracies
 
@@ -207,6 +208,8 @@ class NeuralNetwork:
         pred = self._predict(X)
         cost = self.loss(y, pred, self.model)
         score = self._accuracy(X, y)
+        
+        # printing loss and accuracy on the testing data
         print('\n' + 'Loss on the test set is %s' % cost)
         print('\n' + ' Accuracy for the testing set is  %3.2f  ' % score, '%')
         print(pred[:,0])
