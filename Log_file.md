@@ -51,7 +51,7 @@ The full code will be uploaded in th coming days after some fine tuning and "cle
 **Thoughts:** So excited to see my very first Network learning and making correct prediction. It needs some fine tuning but working.
 ## Day 20-21: Oct 16-17, 2018
 
-**progress:** The network is predicting with a loss below the benchmark of DrivenData, however the loss is still high. 
+**progress:** The network is predicting with a loss below the benchmark of DrivenData, however the loss is still high. Explanations about the work on **ReadMe.md **
 
 **Thoughts:** Must go further with ML courses and understaning to improve the network.
 The target is to be in the 50 of the challenge with same NN
