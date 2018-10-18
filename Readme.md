@@ -24,7 +24,7 @@ Apart from the data (csv files) and submission format (csv), there are 04 python
         
       _predict :  Method to predict the output of a given dataset
       _accuracy : Evaluate accuracy
-      _train_model : to train model, after training model is saved in "modelname.pickle" and can be                                                   called later
+      _train_model : to train model, after training model is saved in "modelname.pickle" and can be called later
       _test_model : test the trained model.
                             
  The network designed is a 4 layers, with adjustable nodes number for hidded layer. The output layer is 01 node since we need to predict the probability for a patient to have a heart disease (0 being healthy, 1 sick)
